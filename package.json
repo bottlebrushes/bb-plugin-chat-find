@@ -1,6 +1,17 @@
 {
   "name": "bb-plugin-chat-find",
   "version": "0.1.0",
+  "description": "Ctrl/Cmd+F find bar for bb chat transcripts.",
+  "license": "MIT",
+  "author": "bottlebrushes",
+  "homepage": "https://github.com/bottlebrushes/bb-plugin-chat-find#readme",
+  "bugs": {
+    "url": "https://github.com/bottlebrushes/bb-plugin-chat-find/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bottlebrushes/bb-plugin-chat-find.git"
+  },
   "type": "module",
   "engines": {
     "bb": ">=0.43",
